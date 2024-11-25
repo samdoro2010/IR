@@ -1,5 +1,14 @@
-
 # Text Processing and Information Retrieval Models
+
+## Table of Contents
+1. [Preprocessing: Stopword Removal and Normalization](#1-preprocessing-stopword-removal-and-normalization)
+2. [Sort-Based Indexing](#2-sort-based-indexing)
+3. [SPIMI (Single-Pass In-Memory Indexing)](#3-spimi-single-pass-in-memory-indexing)
+4. [Logarithmic Indexing](#4-logarithmic-indexing)
+5. [Binary Independence Model (BIM)](#5-binary-independence-model-bim)
+6. [Vector Space Model (VSM)](#6-vector-space-model-vsm)
+7. [Support Vector Machine (SVM) Classifier for Text Data](#7-support-vector-machine-svm-classifier-for-text-data)
+8. [Conclusion](#conclusion)
 
 This repository contains Python implementations of various text processing and information retrieval models. The code is divided into multiple sections, each addressing a specific technique or model.
 
